@@ -1,0 +1,39 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Brad Pitt",
+      "image": "img/person1.jpg",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, fugiat?",
+      "stars": 5
+    },
+    {
+      "id": 2,
+      "name": "Chris Hemsworth",
+      "image": "img/person2.jpg",
+      "text": "Excellent service and very fast delivery.",
+      "stars": 4
+    },
+    {
+      "id": 3,
+      "name": "Ana De Armas",
+      "image": "img/person3.jpg",
+      "text": "Great quality books, I highly recommend this store!",
+      "stars": 5
+    },
+    {
+      "id": 4,
+      "name": "Margot Robbie",
+      "image": "img/person4.jpg",
+      "text": "Good prices and friendly customer support.",
+      "stars": 4
+    },
+    {
+      "id": 5,
+      "name": "Scarlett Johnson",
+      "image": "img/person5.jpg",
+      "text": "Fast shipping and great customer service.",
+      "stars": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Top 10 Books You Should Read",
+      "image": "img/blog1.jpg",
+      "text": "Discover the best 10 books that will change your perspective.",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Why Reading Daily Improves Your Life",
+      "image": "img/blog2.jpg",
+      "text": "Learn how developing a reading habit can improve your focus and memory.",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Digital Books",
+      "image": "img/blog3.jpg",
+      "text": "E-books are evolving. Let's see how technology is shaping the way we read.",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "How to Build Your Home Library",
+      "image": "img/blog4.jpg",
+      "text": "Step-by-step guide to organizing and designing your own reading space.",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Best Books for Entrepreneurs",
+      "image": "img/blog5.jpg",
+      "text": "A curated list of books every entrepreneur must read.",
+      "link": "#"
+    }
+  ]
+}

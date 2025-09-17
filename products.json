@@ -1,0 +1,81 @@
+{
+  "featuredBooks": [
+    {
+      "id": 1,
+      "name": "Book 1",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Book 2",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Book 3",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Book 4",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Book 5",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Book 6",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Book 7",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Book 8",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Book 9",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Book 10",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Book 11",
+      "price": 15.99,
+      "oldPrice": 20.99,
+      "image": "img/book11.jpg"
+    }
+  ]
+}
